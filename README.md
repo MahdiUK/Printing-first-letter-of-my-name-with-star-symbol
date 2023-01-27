@@ -1,1 +1,2 @@
-print ('**\t\t**\n* *\t       * *\n*  *          *  *\n*   *        *   *\n*    *      *    *\n*     *    *     *\n*      *  *\t *\n*       **\t *')
+With this code I desgined the first letter of my First Name. Actually I tried to show how we can use \n and \t that are the most important escape sequences in python. 
+Python strings, the backslash "\" is a special character, also called the "escape" character. It is used in representing certain whitespace characters: "\t" is a tab, "\n" is a newline, and "\r" is a carriage return ( I also will put the practice of it soon). Conversely, prefixing a special character with "\" turns it into an ordinary character.
